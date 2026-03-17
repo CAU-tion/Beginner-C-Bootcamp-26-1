@@ -1,3 +1,3 @@
-# Challenge 02
+# Week 01
 
 > This is example file.
