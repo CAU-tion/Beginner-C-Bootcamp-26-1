@@ -21,4 +21,22 @@ do while:while을 실행하기전에 무조건 한 번 실행
 결과는 모두 같다.  
 
 challenge3  
+삼항연산자에 경우 코드를 줄일 수 있는 장점이 있지만 가독성이 떨어지고  
+switch에 경우 직접적인 대소 비교가 안되기 때문에 case에 따라 정수로 변환을 해줘야한다.  
+![ch2r](./w3ch3c.png)  
+결과  
+![ch2r](./w3ch3r.png)  
 
+challenge4  
+gdb에 경우 코드의 실행과정을 조절할 수 있어서 실행 중 변수 값을 확인하기 좋고  
+레지스터나 메모리 구조도 확인 가능하다.  
+break:함수 시작 멈춤  
+run:실행  
+next:다음 한 줄 실행  
+step:함수 내부  
+print:변수 출력  
+![ch2r](./w3ch4r1.png)  
+info registers:레지스터 보기  
+![ch2r](./w3ch4r2.png)  
+x:메모리 확인(x/진수 $위치)  
+![ch2r](./w3ch4r3.png)  
