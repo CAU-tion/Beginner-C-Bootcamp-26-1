@@ -11,4 +11,14 @@ challenge1
 포멧을 넣어서 다시 실행하면 정상적으로 입력한 값이 출력된다.  
 
 challenge2  
+for:반복횟수를 지정해주기 좋음  
+![ch2r](./w3ch2c1.png)  
+while:조건을 지정해주기 좋음  
+![ch2r](./w3ch2c2.png)  
+do while:while을 실행하기전에 무조건 한 번 실행  
+![ch2r](./w3ch2c3.png)  
+![ch2r](./w3ch2r.png)  
+결과는 모두 같다.  
+
+challenge3  
 
