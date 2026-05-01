@@ -1,0 +1,13 @@
+# OS generated files
+.DS_Store
+**/.DS_Store
+Thumbs.db
+
+# User-specific secrets
+secrets.json
+*.env
+
+# Compiled files
+*.o
+*.exe
+*.out
