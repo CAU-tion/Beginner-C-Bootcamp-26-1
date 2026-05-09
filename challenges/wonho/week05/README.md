@@ -30,9 +30,12 @@ challenge2
 BOF  
 ![challenge](./w5ch2c.png)  
 ![challenge](./w5ch2r1.png) 결과에 문제가 없다.   
-![challenge](./w5ch2r3.png) ret address도 정상적인 주소값이 들어가있다.  
-![challenge](./w5ch2r2.png) 오버플로우가 되면서 세그먼트 에러가 뜬다.  
-![challenge](./w5ch2r4.png) ret address가 0x49, 0x48로 덮어졌다. (0x49, 0x48은 I, H를 의미함)  
+![challenge](./w5ch2r3.png)  
+ret address도 정상적인 주소값이 들어가있다.  
+![challenge](./w5ch2r2.png)  
+오버플로우가 되면서 세그먼트 에러가 뜬다.  
+![challenge](./w5ch2r4.png)  
+ret address가 0x49, 0x48로 덮어졌다. (0x49, 0x48은 I, H를 의미함)  
 
 | 함수          | 이유         |
 | ----------- | ------------| 
