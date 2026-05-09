@@ -1,9 +1,12 @@
 challenge1  
 ![challenge1](./w6ch1c.png)  
 ![challenge1](./w6ch1r.png)  
-| &num | 변수의 주소 할당 |
-| *ptr | 포인터 주소 값 |
-| - | - |
+| 명령어 | 내용 |
+| ------ | - |
+| &num   | 변수의 주소 할당 |
+| *ptr   | 포인터 주소 값 |
+
+
 포인터 변수 크기 = 주소 크기  
 
 challenge2  
