@@ -72,3 +72,17 @@ main으로 PR 올리기 (PR 제목: [week01] 홍길동]
 
 > 🖇️ Bootcamp Github Repository
 > https://github.com/CAU-tion/Beginner-C-Bootcamp-26-1
+
+## 7) ⭐ 수료자 명단 ⭐
+
+수료자는 총 10주차 과정의 Challenge를 80% 이상 완료한 부원으로 선정됩니다.
+
+|기수|이름|Github ID|Repository|
+|----|---|-----------|---------|
+|7기|이나원|[@fromNowAn](https://github.com/fromNowAn)|[repo](https://github.com/CAU-tion/Beginner-C-Bootcamp-26-1/tree/main/challenges/%EC%9D%B4%EB%82%98%EC%9B%90)|
+|7기|정지윤|[@jeongjy-collab](https://github.com/jeongjy-collab)|[repo](https://github.com/CAU-tion/Beginner-C-Bootcamp-26-1/tree/main/challenges/jiyun)|
+|8기|박상은|[@sangeun6413](https://github.com/sangeun6413)|[repo](https://github.com/CAU-tion/Beginner-C-Bootcamp-26-1/tree/main/challenges/sangeun)|
+|9기|권민찬|[@tronve](https://github.com/tronve)|[repo](https://github.com/CAU-tion/Beginner-C-Bootcamp-26-1/tree/main/challenges/%EA%B6%8C%EB%AF%BC%EC%B0%AC)|
+|9기|김문정|[@kimme-more](https://github.com/kimme-more)|[repo](https://github.com/CAU-tion/Beginner-C-Bootcamp-26-1/tree/main/challenges/%EA%B9%80%EB%AC%B8%EC%A0%95)|
+|9기|김준성|[@alex1249](https://github.com/alex1249)|[repo](https://github.com/CAU-tion/Beginner-C-Bootcamp-26-1/tree/main/challenges/%EA%B9%80%EC%A4%80%EC%84%B1)|
+|9기|장원호|[@uch0709](https://github.com/uch0709)|[repo](https://github.com/CAU-tion/Beginner-C-Bootcamp-26-1/tree/main/challenges/wonho)|
