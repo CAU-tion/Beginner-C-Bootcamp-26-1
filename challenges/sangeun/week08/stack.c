@@ -60,7 +60,7 @@ void init_stack(Stack* s) {
 void push(Stack* s, int data) {
     Node* newNode = (Node*)malloc(sizeof(Node));
     if (!newNode) return;
-    
+
     newNode->data = data;
     newNode->next = s->top; // 새 노드가 기존의 top 노드를 가리키게 함
     s->top = newNode;       // 스택의 top을 새 노드로 업데이트
